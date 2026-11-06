@@ -1,0 +1,6 @@
+{
+  "name": "Teixeira Locação de Munck e Auto Socorro",
+  "description": "Locação de caminhão munck, içamentos pesados, montagem de estruturas e auto socorro 24h em Santa Helena de Goiás e região.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
